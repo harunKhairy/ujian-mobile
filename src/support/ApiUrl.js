@@ -1,0 +1,5 @@
+export const API_URL = 'https://api.thecatapi.com/v1/images/search?limit=30'
+// export const API_URL = 'https://api.thecatapi.com/v1/images'
+// export const API_URL = 'https://api.thecatapi.com'
+export const API_KEY = 'e9af4de9-6b35-464d-b3a6-1d8ed94f1047'
+export const API_KEY_HEADERS = 'x-api-key'
